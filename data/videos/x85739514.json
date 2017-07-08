@@ -1,0 +1,150 @@
+{
+    "title": "Steve Shapiro from Abt on WGN 720 With Steve Cochran - Part 2",
+    "description": "Steve Shapiro talks about whats going on at Abt. Visit our store in Glenview, IL today for Electronics, Appliances & More!",
+    "referenceId": "54cfdbf8db47218236159e367fe81622",
+    "date_created": "1489074799",
+    "date_modified": "1489079269",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "204",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "news",
+    "featured_category": "featured_yes",
+    "brand1": null,
+    "main_category": null,
+    "sub_category": null,
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "85739514",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "abt-electronics-on-wgn-radion-cltv-030317-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "204",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "204",
+        "prettyDuration": "00:03:24",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/thumb-54cfdbf8db47218236159e367fe81622-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1758854\/85739514\/a4b5f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_concept": null,
+    "tvp_entity_company": null,
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": [
+        "Steve Shapiro"
+    ],
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/art and entertainment"
+    ],
+    "tvp_category_2": [
+        "\/art and entertainment\/radio"
+    ],
+    "tvp_category_3": null,
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": [
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 408.53897
+}

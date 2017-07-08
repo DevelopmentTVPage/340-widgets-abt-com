@@ -1,0 +1,117 @@
+{
+    "title": "Meet the Signal",
+    "description": "The first Apple Homekit-enabled ceiling fan is here!",
+    "referenceId": "z4nwvTS_szA",
+    "date_created": "1471460022",
+    "date_modified": "1490713406",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "55",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "manufacturer",
+    "featured_category": "featured_yes",
+    "brand1": "Hunter",
+    "main_category": null,
+    "sub_category": null,
+    "brand_filter": "g_h",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "1",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "87327911",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Meet-the-Signal",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "type": "youtube",
+        "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z4nwvTS_szA\/hqdefault.jpg",
+        "uploadDate": 1471460022,
+        "videoId": "z4nwvTS_szA",
+        "title": "Meet the Signal",
+        "description": "The first Apple Homekit-enabled ceiling fan is here! http:\/\/www.hunterfan.com\/SimpleConnect",
+        "author": "Hunter Fan Company",
+        "mediaDuration": 55,
+        "prettyDuration": "00:00:55",
+        "views": "2637",
+        "uploadAsset": false,
+        "quality": ""
+    },
+    "transcripts": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-06-01"
+        }
+    },
+    "tvp_concept": [
+        "The Signal",
+        "The Signal"
+    ],
+    "tvp_entity_company": [
+        "Apple"
+    ],
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": null,
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/technology and computing"
+    ],
+    "tvp_category_2": [
+        "\/technology and computing\/hardware"
+    ],
+    "tvp_category_3": [
+        "\/technology and computing\/hardware\/computer networking"
+    ],
+    "tvp_category_4": [
+        "\/technology and computing\/hardware\/computer networking\/router"
+    ],
+    "tvp_category_5": null,
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 317.47403
+}

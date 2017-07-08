@@ -1,0 +1,144 @@
+{
+    "title": "Super Pan Nachos",
+    "description": "We are just days away from the biggest event in football and we all know throwing a party is a must! Sunday\u2019s game will be filled with non stop football action,your friends and family, and of course, food. There\u2019s isn\u2019t a party without the food! Without missing a second of the game, we came up with some easy recipes so you can sit back and watch the game!\n \nBig Game Pan Nachos\n \nThese Nachos are a combination of crunchy and soft, and sure to be a Super Bowl favorite!\n\nINGREDIENTS\n- Large baking pan (we used 18 x 13)\n- Parchment paper\n- 1lb ground beef (can substitute chicken ground turkey or pork)\n- 1 package of taco seasoning\n- 1 bag of tortilla rounds 13oz\n- 1 can of refried beans 16oz\n- 12 oz shredded Mexican blend cheese\n- 1 head of lettuce chopped ( can also buy a bag of shreds lettuce)\n- Jalape\u00f1o peppers (hot or mild)\n- 4 medium sized plum tomatoes chopped\n- \u00bc cup chopped cilantro\n- \u00bd cup white onion chopped\n- Salt and pepper to taste\n- Dash of cumin\n- 1\/2 of lime for juice\n- 2 Avocados cubed\n- 1 to 1 \u00bd cups sour cream\n\nLearn more: http:\/\/blog.abt.com\/category\/recipes\/game-time-recipes\/",
+    "referenceId": "59ed4c3ec96fc4713e1bfec38a9a7e85",
+    "date_created": "1484333070",
+    "date_modified": "1484342837",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "79",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "overview",
+    "featured_category": "featured_yes",
+    "brand1": null,
+    "main_category": null,
+    "sub_category": null,
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "84928469",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Super-Pan-Nachos-REVIEW-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "79",
+            "width": 710,
+            "height": 398
+        },
+        "mediaDuration": "79",
+        "prettyDuration": "00:01:19",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/thumb-59ed4c3ec96fc4713e1bfec38a9a7e85-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 710,
+                "height": 398
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 358
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/84928469\/a955f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-22\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_concept": [
+        "Mexican cuisine",
+        "Mexico",
+        "Nachos",
+        "Mexican cuisine"
+    ],
+    "tvp_entity_company": null,
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": null,
+    "tvp_entity_sport": [
+        "football"
+    ],
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/food and drink"
+    ],
+    "tvp_category_2": [
+        "\/food and drink\/cuisines"
+    ],
+    "tvp_category_3": [
+        "\/food and drink\/cuisines\/mexican cuisine"
+    ],
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": [
+        "18",
+        "12",
+        "25"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 2111.544
+}

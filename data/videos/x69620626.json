@@ -1,0 +1,132 @@
+{
+    "title": "Josh From Abt on WGN - Game Day Ultimate Viewing Experience",
+    "description": "Josh Davis from Abt discusses everything you will need to create the ultimate viewing experience for the big game on WGN News - Midday Fix",
+    "referenceId": "f4fe492413917bfb5d1cd5d31e7798c3",
+    "date_created": "1476125537",
+    "date_modified": "1483381937",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "duration": "249",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "news",
+    "featured_category": "featured_yes",
+    "brand1": null,
+    "main_category": null,
+    "sub_category": null,
+    "brand_filter": null,
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "69620626",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "Josh-From-Abt-on-WGN-Game-Day-Ultimate-Viewing-Experience-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "249",
+            "width": 640,
+            "height": 360
+        },
+        "mediaDuration": "249",
+        "prettyDuration": "00:04:09",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69620626\/44f00\/thumb-f4fe492413917bfb5d1cd5d31e7798c3-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69620626\/44f00\/media.mpd",
+        "hlsUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69620626\/44f00\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69620626\/44f00\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/69620626\/44f00\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_concept": [
+        "WGN-TV",
+        "WGN-TV"
+    ],
+    "tvp_entity_company": null,
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": [
+        "Josh Davis"
+    ],
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/art and entertainment"
+    ],
+    "tvp_category_2": [
+        "\/art and entertainment\/radio"
+    ],
+    "tvp_category_3": null,
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": [
+        "12",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 8178.6484
+}

@@ -1,0 +1,152 @@
+{
+    "title": "KitchenAid Appliances at Abt",
+    "description": "The name says it all: KitchenAid Appliances have a rich history of helping professional and at-home chefs make the best use of their time in the kitchen.",
+    "referenceId": "1e176d98918ea0f33762b8435443f1ff",
+    "date_created": "1476817263",
+    "date_modified": "1478715062",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "30",
+    "status": "approved",
+    "visibility": "1",
+    "video_type": "commercial",
+    "featured_category": null,
+    "brand1": "kitchenaid",
+    "main_category": "appliances",
+    "sub_category": null,
+    "brand_filter": "k_l",
+    "sort_order": null,
+    "YETI": null,
+    "Chantal": null,
+    "Rode": null,
+    "Rabbit": null,
+    "Hunter": null,
+    "Casablanca": null,
+    "Marshall": null,
+    "Thrustmaster": null,
+    "First_Alert": null,
+    "ANKR": null,
+    "Maglite": null,
+    "ClassicFlame": null,
+    "Zera": null,
+    "MantelMount": null,
+    "Revolar": null,
+    "JOBY": null,
+    "Coyote": null,
+    "Amplifi": null,
+    "Solidsteel": null,
+    "The_Galley": null,
+    "Shavel": null,
+    "Zeiss": null,
+    "Chipolo": null,
+    "mJoose": null,
+    "B_W_International": null,
+    "Luminox": null,
+    "Lifesmart": null,
+    "Muzik": null,
+    "RadarMount": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "id": "70108825",
+    "loginId": "1758854",
+    "entityType": "1",
+    "titleTextEncoded": "KitchenAid-Appliances-at-Abt-mp4",
+    "category": "",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/thumb-1e176d98918ea0f33762b8435443f1ff-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/d2mhchrq41duh4.cloudfront.net\/1758854\/70108825\/8facc\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "metrics_statistics": null,
+    "tvp_concept": [
+        "Cook",
+        "Audi",
+        "Unix",
+        "Cook"
+    ],
+    "tvp_entity_company": [
+        "KitchenAid Appliances"
+    ],
+    "tvp_entity_facility": null,
+    "tvp_entity_geographicfeature": null,
+    "tvp_entity_healthcondition": null,
+    "tvp_entity_location": null,
+    "tvp_entity_movie": null,
+    "tvp_entity_musicgroup": null,
+    "tvp_entity_organization": null,
+    "tvp_entity_person": null,
+    "tvp_entity_sport": null,
+    "tvp_entity_sportingevent": null,
+    "tvp_entity_televisionshow": null,
+    "tvp_entity_twitterhandle": null,
+    "tvp_entity_vehicle": null,
+    "tvp_category_1": [
+        "\/home and garden"
+    ],
+    "tvp_category_2": [
+        "\/home and garden\/appliances"
+    ],
+    "tvp_category_3": null,
+    "tvp_category_4": null,
+    "tvp_category_5": null,
+    "tvp_profiles": [
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 3046.706
+}
