@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Abt Widgets"
+baseURL = "https:\/\/widgets.abt.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758854"
+subfolder = ""
